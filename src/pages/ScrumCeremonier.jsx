@@ -1,4 +1,4 @@
-function Start() {
+function ScrumCeremonier() {
     return (
         <section>
 
@@ -6,4 +6,4 @@ function Start() {
     );
 }
 
-export default Start;
+export default ScrumCeremonier;

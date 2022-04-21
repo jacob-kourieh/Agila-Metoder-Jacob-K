@@ -1,4 +1,4 @@
-function Start() {
+function ScrumConcept() {
     return (
         <section>
 
@@ -6,4 +6,4 @@ function Start() {
     );
 }
 
-export default Start;
+export default ScrumConcept;

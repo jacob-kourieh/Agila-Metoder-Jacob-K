@@ -1,4 +1,4 @@
-function Start() {
+function AgilaTeam() {
     return (
         <section>
 
@@ -6,4 +6,4 @@ function Start() {
     );
 }
 
-export default Start;
+export default AgilaTeam;
