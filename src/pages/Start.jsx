@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Start() {
 
     let img = "https://www.visual-paradigm.com/servlet/editor-content/scrum/what-is-scrum-team/sites/7/2018/10/what-is-scrum-team.png"
@@ -17,7 +19,7 @@ function Start() {
                     <li>Utveckla ledarskapet</li>
                     <li>Skala av och förenkla</li>
                     <li>Lär ut de nya rutinerna</li>
-                    <button>mer info</button>
+                    <Link to="/agila-team"> <button>mer info</button> </Link>
                 </ul>
             </article>
 
