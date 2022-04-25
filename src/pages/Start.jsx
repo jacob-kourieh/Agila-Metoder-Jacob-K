@@ -85,7 +85,7 @@ function Start() {
                     <li>Backlog Refinement</li>
                     <li>User stories</li>
                     <li>Estimering</li>
-                    <button>mer info</button>
+                    <Link to="/scrum-concept"> <button>mer info</button> </Link>
                 </ul>
             </article>
 
