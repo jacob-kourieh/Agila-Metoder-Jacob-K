@@ -69,7 +69,7 @@ function Start() {
                     <li>Daily Scrum</li>
                     <li>Sprint Review/Sprint Demo</li>
                     <li>Sprint Retrospective</li>
-                    <button>mer info</button>
+                    <Link to="/scrum-ceremonier"> <button>mer info</button> </Link>
                 </ul>
             </article>
 
