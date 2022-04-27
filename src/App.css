@@ -10,13 +10,13 @@ body {
 
 a {
   text-decoration: none;
-  color: aliceblue;
-  width: 174px;
+  color: #ffa9a9c7;
   display: flex;
-    flex-direction: column;
-    align-items: center;
-    border-radius: 191px;
-    width: 174px;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 191px;
+  width: 190px;
+  font-size: large;
 }
 
 
@@ -25,18 +25,16 @@ a p {
 }
 
 nav {
-    padding-left: 7%;
-    padding-right: 13%;
-    height: 100px;
-    background-color: #a26e6e8a;
-    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  padding-left: 7%;
+  padding-right: 13%;
+  height: 100px;
+  background-color: #6f69693d;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 }
 
-.App{
+.App {
   margin: 45px;
-  
 }
-
 
 
 .ScrumInfo {
@@ -45,6 +43,7 @@ nav {
   border-radius: 35px;
   padding: 8px;
   margin: 15px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 
 }
 
@@ -55,6 +54,7 @@ nav {
   border-radius: 35px;
   padding: 8px;
   margin: 15px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 }
 
 .AgilaTeam {
@@ -63,6 +63,7 @@ nav {
   border-radius: 35px;
   padding: 8px;
   margin: 15px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 
 }
 
@@ -72,6 +73,7 @@ nav {
   border-radius: 35px;
   padding: 8px;
   margin: 15px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 
 }
 
@@ -82,6 +84,7 @@ nav {
   border-radius: 35px;
   padding: 8px;
   margin: 15px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 }
 
 .container a {
@@ -92,9 +95,8 @@ nav {
   padding: 8px;
   margin: 15px;
   color: white;
-  /* font-weight: bold; */
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 }
-
 
 
 .itemContainer {
@@ -103,9 +105,24 @@ nav {
   border-radius: 35px;
   padding: 8px;
   margin: 15px;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.ScrumCeremonierContainer img {
+  width: 1170px;
+
+}
+
+img {
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 }
 
 
-
-
-
+.container,
+.ScrumConceptContainer,
+.teamContainer,
+.ScrumCeremonierContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
