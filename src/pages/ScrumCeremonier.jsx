@@ -1,9 +1,10 @@
 function ScrumCeremonier() {
     let img = "https://metier.dk/media/3i2fgsj2/scrum-framework-full.png?mode=max&width=1440&height=1080&upscale=false&format=webp&quality=90"
+    let img2 = "http://www.scrummaster.se/wp-content/uploads/2015/12/introduktion-till-scrum-pa-7-min-560x315.jpg"
     return (
         <section className="ScrumCeremonierContainer">
             <h1>Roller och aktiviteter i Scrum</h1>
-            <img src={img} alt="" />
+            <img className="header-pic" src={img} alt="" />
 
             <article className="itemContainer">
                 <h3>Utvecklingsteamet</h3>
@@ -40,6 +41,9 @@ function ScrumCeremonier() {
                     Dessutom blir den finansiella risken mindre, eftersom man kan välja att avbryta eller byta inriktning inom ramen för nästa Sprint.
                     Sprintar avlöser varandra och efter varje Sprint skall en ny och fungerande version av produkten finnas tillgänglig.</p>
             </article>
+
+            <img src={img2} alt="" />
+
 
             <article className="itemContainer">
                 <h3>Sprintplanering</h3>
