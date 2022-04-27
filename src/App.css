@@ -32,4 +32,56 @@ nav {
     box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
 }
 
+.App{
+  margin: 45px;
+  
+}
+
+
+
+.ScrumInfo {
+  background-color: #ff40404d;
+  width: 1147px;
+  border-radius: 35px;
+  padding: 8px;
+  margin: 15px;
+
+}
+
+.scrumHeading {
+
+  background-color: #757e4196;
+  width: 1147px;
+  border-radius: 35px;
+  padding: 8px;
+  margin: 15px;
+}
+
+.AgilaTeam {
+  background-color: #65699c82;
+  width: 1147px;
+  border-radius: 35px;
+  padding: 8px;
+  margin: 15px;
+
+}
+
+.scrumCeremonier {
+  background-color: #544a4a;
+  width: 1147px;
+  border-radius: 35px;
+  padding: 8px;
+  margin: 15px;
+
+}
+
+.scrumConcept {
+
+  background-color: #31652e85;
+  width: 1147px;
+  border-radius: 35px;
+  padding: 8px;
+  margin: 15px;
+}
+
 
