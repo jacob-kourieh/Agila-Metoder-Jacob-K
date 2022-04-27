@@ -50,7 +50,7 @@ function Start() {
                     <li>Utveckla ledarskapet</li>
                     <li>Skala av och förenkla</li>
                     <li>Lär ut de nya rutinerna</li>
-                    <Link to="/agila-team"> <button>mer info</button> </Link>
+                    <Link to="/agila-team"> Mer Info </Link>
                 </ul>
             </article>
 
@@ -66,7 +66,7 @@ function Start() {
                     <li>Daily Scrum</li>
                     <li>Sprint Review/Sprint Demo</li>
                     <li>Sprint Retrospective</li>
-                    <Link to="/scrum-ceremonier"> <button>mer info</button> </Link>
+                    <Link to="/scrum-ceremonier"> Mer Info </Link>
                 </ul>
             </article>
 
@@ -82,7 +82,7 @@ function Start() {
                     <li>Backlog Refinement</li>
                     <li>User stories</li>
                     <li>Estimering</li>
-                    <Link to="/scrum-concept"> <button>mer info</button> </Link>
+                    <Link to="/scrum-concept"> Mer Info </Link>
                 </ul>
             </article>
 

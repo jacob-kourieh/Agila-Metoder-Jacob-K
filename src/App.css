@@ -40,7 +40,7 @@ nav {
 
 
 .ScrumInfo {
-  background-color: #ff40404d;
+  background-color: #ff40403b;
   width: 1147px;
   border-radius: 35px;
   padding: 8px;
@@ -83,5 +83,29 @@ nav {
   padding: 8px;
   margin: 15px;
 }
+
+.container a {
+  background-color: #f43636a1;
+  width: 104px;
+  border: none;
+  border-radius: 35px;
+  padding: 8px;
+  margin: 15px;
+  color: white;
+  /* font-weight: bold; */
+}
+
+
+
+.itemContainer {
+  background-color: #544a4a;
+  width: 1147px;
+  border-radius: 35px;
+  padding: 8px;
+  margin: 15px;
+}
+
+
+
 
 
